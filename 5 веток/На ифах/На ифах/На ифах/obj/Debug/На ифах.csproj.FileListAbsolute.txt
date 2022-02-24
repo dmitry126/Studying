@@ -1,8 +1,0 @@
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\bin\Debug\На ифах.exe.config
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\bin\Debug\На ифах.exe
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\bin\Debug\На ифах.pdb
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\obj\Debug\На ифах.csproj.AssemblyReference.cache
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\obj\Debug\На ифах.csproj.SuggestedBindingRedirects.cache
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\obj\Debug\На ифах.csproj.CoreCompileInputs.cache
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\obj\Debug\На ифах.exe
-C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\На ифах\На ифах\На ифах\obj\Debug\На ифах.pdb
