@@ -1,0 +1,8 @@
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\bin\Debug\With foreach.exe.config
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\bin\Debug\With foreach.exe
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\bin\Debug\With foreach.pdb
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\obj\Debug\With foreach.csproj.AssemblyReference.cache
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\obj\Debug\With foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\obj\Debug\With foreach.csproj.CoreCompileInputs.cache
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\obj\Debug\With foreach.exe
+C:\Users\KEEP OUT NIGGER!!!\Documents\Работы C#\5 веток\With foreach\With foreach\obj\Debug\With foreach.pdb

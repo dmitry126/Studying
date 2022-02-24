@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c16f210-1f47-4895-8613-cb6b8d433912": {
+      "ProjectGuid": "7c16f210-1f47-4895-8613-cb6b8d433912",
+      "DisplayName": "With foreach",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
